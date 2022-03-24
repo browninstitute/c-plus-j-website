@@ -10,3 +10,4 @@ Tutorials:
 * https://dev.to/ndesmic/making-a-personal-site-from-start-to-publish-with-eleventy-and-github-2ld4
 * https://www.learnwithjason.dev/lets-learn-eleventy
 * https://developers.cloudflare.com/pages/framework-guides/deploy-an-eleventy-site/
+* https://www.digitalocean.com/community/tutorials/how-to-create-and-deploy-your-first-eleventy-website
