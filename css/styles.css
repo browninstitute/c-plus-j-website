@@ -1,8 +1,14 @@
+h2 {
+    font-family: 'Avenir';
+    font-weight: 300;
+    font-size: 2.5em;
+}
 a, a:visited {
     color: black;
     text-decoration: none;
-    border-bottom: 1px solid;
-    border-color: #ff8800;
+    border-bottom: 1.5px solid;
+    border-color: #82b402;
+    /* border-color: #19A974; */
 }
 .logoLink {
     border: none;
