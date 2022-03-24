@@ -8,17 +8,22 @@ jobs:
   build-deploy:
     name: Eleventy Build
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [12.x]
     steps:
       - name: Git Checkout
         uses: actions/checkout@v2
-      - name: Setup Node
+      - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v1
         with:
-          node-version: '12.x'
-      - name: Build
-        uses: TartanLlama/actions-eleventy@v1.1
+          node-version: ${{ matrix.node-version }}
+      - name: Install dependencies & build
+        run: |
+          npm ci
+          npm run build
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          publish_dir: ./_site 
+          publish_dir: ./_site
           github_token: ${{ secrets.GITHUB_TOKEN }}
