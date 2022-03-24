@@ -4,7 +4,7 @@ title: C+J • Brown Institute for Media Innovation
 ---
 ![Columbia image](images/columbiaImage.jpeg)
 
-## 2022 Computation + Journalism Symposium
+## 2022 Computation + Journalism Conference
 
 Data Journalism in an Expanded Field
 
@@ -13,7 +13,7 @@ Data Journalism in an Expanded Field
 Hosted by the [Brown Institute for Media Innovation
 at Columbia Journalism School](https://brown.columbia.edu/)
 
-### About the Symposium
+### About the Conference
 
 News outlets rely on computation to tell some of the biggest stories of our time. They collect data when official sources have not. They build statistical models to uncover disparities, previously ignored. And they craft visualizations to reveal new dimensions to a story. Some newsrooms have expertise in-house to produce this work, while others depend on collaborations with outside researchers.
 
