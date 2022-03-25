@@ -37,6 +37,6 @@ Success for our conference is measured in new published stories, new kinds of re
 | May 13, 2022   | Decisions on contributed and refereed talks        |
 | June 9-11, 2022*   | Conference |
 
-*The conference will take place the morning of June 9, the full day of June 10, and the morning of June 11.*
+**The conference will take place the morning of June 9, the full day of June 10, and the morning of June 11.*
 
 **More information, including how to propose and register, coming soon!**
