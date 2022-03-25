@@ -6,12 +6,13 @@ module.exports = function(eleventyConfig) {
     "css",
     "jpg",
     "png",
+    "jpeg",
     "ico"
   ]);
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
   // eleventyConfig.addPassthroughCopy("images");
   // eleventyConfig.addPassthroughCopy("css");
-  // eleventyConfig.addPassthroughCopy("**/*.jpg");
+  // eleventyConfig.addPassthroughCopy({"favicon.ico": "/"});
   // eleventyConfig.addPassthroughCopy("**/*.jpeg");
   // eleventyConfig.addPassthroughCopy("**/*.png");
   // eleventyConfig.addPassthroughCopy("**/*.css");
