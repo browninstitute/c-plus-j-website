@@ -14,5 +14,8 @@
   "devDependencies": {
     "@11ty/eleventy": "^1.0.0",
     "@11ty/eleventy-navigation": "^0.3.2"
+  },
+  "dependencies": {
+    "eleventy": "^1.0.6"
   }
 }

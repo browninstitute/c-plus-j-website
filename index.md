@@ -31,18 +31,12 @@ Success for our conference is measured in new published stories, new kinds of re
 
 ### Timeline
 
-* Submission deadline: **May 9**
-* Decisions on contributed and refereed talks: **May 13**
-* Conference dates: **June 9 (half day), 10 (full day), and possibly 11 (half day)**
+| Date      | Description |
+| ----------- | ----------- |
+| May 9, 2022      | Submission Deadline       |
+| May 13, 2022   | Decisions on contributed and refereed talks        |
+| June 9-11, 2022*   | Conference |
 
-### Call for Participation
+**The conference will take place the morning of June 9, the full day of June 10, and the morning of June 11.*
 
-We will borrow from the organizational structure used by the Joint Statistical Meetings led by the American Statistical Association. People can participate in one of several ways.
-
-* Propose a contributed talk with an abstract of at most 250 words. These separate talks will be divided into sessions by the Program Committee and run in parallel at the event.
-* Propose a contributed workshop with an abstract of at most 250 words. These are training sessions led by journalists or researchers, introducing a topic of interest to the community.
-* Propose a refereed talk with a two-page abstract. These talks will also be divided into sessions but will be given a special place in the program.
-* The Program Committee will organize several invited sessions.
-* The Program Committee will invite a slate of keynote speakers.
-
-More information, including how to propose and register, coming soon!
+**More information, including how to propose and register, coming soon!**
