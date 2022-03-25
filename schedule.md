@@ -1,6 +1,6 @@
 ---
 layout: layout.liquid
-title: C+J Schedule
+title: Computation + Journalism Conference | Schedule
 # eleventyNavigation:
 #   key: Schedule
 ---

@@ -1,6 +1,6 @@
 ---
 layout: layout.liquid
-title: C+J Propose
+title: Computation + Journalism Conference | Propose
 # eleventyNavigation:
 #   key: Propose
 ---

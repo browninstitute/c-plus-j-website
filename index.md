@@ -1,12 +1,12 @@
 ---
 layout: layout.liquid
-title: C+J • Brown Institute for Media Innovation
+title: Computation + Journalism Conference
 ---
 ![Columbia image](images/columbiaImage.jpeg)
 
 ## 2022 Computation + Journalism Conference
 
-Data Journalism in an Expanded Field
+<!-- Data Journalism in an Expanded Field -->
 
 **June 9-11, 2022**
 

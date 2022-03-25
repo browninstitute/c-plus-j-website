@@ -1,6 +1,6 @@
 ---
 layout: layout.liquid
-title: C+J Organization
+title: Computation + Journalism Conference | Organization
 eleventyNavigation:
   key: Organization
 ---

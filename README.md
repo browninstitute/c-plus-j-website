@@ -3,6 +3,7 @@ TODO:
 * Add links to code of conduct report inappropriate behavior forms
 * Update mailto link on code of conduct
 * Update email address
+* Add favicon
 
 Tutorials:
 

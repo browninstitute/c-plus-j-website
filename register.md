@@ -1,6 +1,6 @@
 ---
 layout: layout.liquid
-title: C+J Register
+title: Computation + Journalism Conference | Register
 # eleventyNavigation:
 #   key: Register
 ---
