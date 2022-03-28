@@ -3,6 +3,7 @@ layout: layout.liquid
 title: C+J Propose
 eleventyNavigation:
   key: Propose
+  order: 2
 ---
 
 ## Propose

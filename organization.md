@@ -3,6 +3,7 @@ layout: layout.liquid
 title: Computation + Journalism Conference | Organization
 eleventyNavigation:
   key: Organization
+  order: 3
 ---
 ## Code of Conduct
 

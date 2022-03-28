@@ -3,6 +3,7 @@ layout: layout.liquid
 title: Computation + Journalism Conference | Register
 eleventyNavigation:
   key: Register
+  order: 1
 ---
 <div id="eventbrite-widget-container-308708293817"></div>
 
