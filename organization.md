@@ -1,6 +1,6 @@
 ---
 layout: layout.liquid
-title: Computation + Journalism Conference | Organization
+title: Organization - C+J 2022
 eleventyNavigation:
   key: Organization
   order: 3

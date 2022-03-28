@@ -1,6 +1,6 @@
 ---
 layout: layout.liquid
-title: Computation + Journalism Conference | Schedule
+title: Schedule - C+J 2022
 # eleventyNavigation:
 #   key: Schedule
 ---

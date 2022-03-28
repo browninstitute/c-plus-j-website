@@ -1,6 +1,6 @@
 ---
 layout: layout.liquid
-title: Computation + Journalism Conference | Register
+title: Register - C+J 2022
 eleventyNavigation:
   key: Register
   order: 1

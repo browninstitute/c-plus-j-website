@@ -1,6 +1,6 @@
 ---
 layout: layout.liquid
-title: C+J Propose
+title: Propose - C+J 2022
 eleventyNavigation:
   key: Propose
   order: 2
