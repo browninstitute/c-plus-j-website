@@ -17,19 +17,13 @@ at Columbia Journalism School](https://brown.columbia.edu/)
 
 News outlets rely on computation to tell some of the biggest stories of our time. Journalists collect data when official sources have not. They build statistical models to uncover disparities, previously ignored. And they craft new visualizations to help us experience our world in different ways. Some newsrooms have expertise in-house to produce this work, while others depend on collaborations with outside researchers.
 
-The Computation+Journalism Conference (C+J) is a venue where journalists and researchers meet. News organizations share experiences with computational and social scientists, and together explore new research or new kinds of practices that can serve the public good.
+The Computation+Journalism Conference (C+J) is a venue where journalists and researchers meet — news organizations share experiences with computational and social scientists, and together explore new kinds of practices that can serve the public good. We take a very broad view of the term “researchers” to include our traditional audience of computing, data and social scientists, as well as artists and digital humanities scholars, historians, geographers and architects.
 
-Building on the success of C+J 2021, we are planning for C+J 2022 to be a large, inclusive event — it will be both in-person and online, a “hybrid” meeting. The fact that people no longer have to travel to make substantial contributions at an event like this lowers the barriers to entry. We hope to attract researchers with some curiosity about journalism, as well as news organizations looking to expand their reporting capabilities or experiment with new ways to present stories.
+### Building Bigger and Going Hybrid in 2022
 
-We are taking a very broad view of the term “researchers” to include our traditional audience of computing, data and social scientists, as well as artists and digital humanities scholars, historians, geographers and architects.
+In 2020 we canceled C+J as COVID restrictions were just taking hold and travel was impossible. With 2021 we bounced back and met virtually, attracting nearly 1,000 attendees from 17 countries. For 2022, we want to keep the best of what it means to meet in person, but not lose the diversity and reach possible from an online meeting — C+J 2022 will take place physically at Columbia University and virtually in a custom “extension” we have created.
 
-Success for C+J is measured in new types of published stories, new lines of investigation, and new cross-professional collaborations.
-
-### Going Hybrid in 2022
-
-In 2020 we cancelled C+J as COVID restrictions were just taking hold and travel was impossible. With 2021 we bounced back and met virtually, attracting nearly 1,000 attendees from 17 countries. For 2022, we want to keep the best of what it means to meet in person, but not lose the diversity and reach possible from an online meeting — C+J 2022 will take place physically at Columbia University and virtually in a custom “extension” we have created.
-
-The fact that people no longer have to travel to make substantial contributions at an event like this lowers the barriers to entry. As with C+J 2021, we will hope to attract both computational researchers and creators with some curiosity about journalism, as well as news organizations looking to expand their reporting capabilities or experiment with new ways to report and present stories.
+Building on the success of C+J 2021, we are planning for C+J 2022 to be a large, inclusive event — it will be both in-person and online, a “hybrid” meeting. The fact that people no longer have to travel to make substantial contributions at an event like this lowers the barriers to entry. As with C+J 2021, we will hope to attract both computational researchers and creators with some curiosity about journalism, as well as news organizations looking to expand their reporting capabilities or experiment with new ways to report and present stories.
 
 ### Timeline
 
