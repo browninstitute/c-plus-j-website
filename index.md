@@ -15,11 +15,15 @@ at Columbia Journalism School](https://brown.columbia.edu/)
 
 ### About the Conference
 
-News outlets rely on computation to tell some of the biggest stories of our time. They collect data when official sources have not. They build statistical models to uncover disparities, previously ignored. And they craft visualizations to reveal new dimensions to a story. Some newsrooms have expertise in-house to produce this work, while others depend on collaborations with outside researchers.
+News outlets rely on computation to tell some of the biggest stories of our time. Journalists collect data when official sources have not. They build statistical models to uncover disparities, previously ignored. And they craft new visualizations to help us experience our world in different ways. Some newsrooms have expertise in-house to produce this work, while others depend on collaborations with outside researchers.
 
-The Computation+Journalism Conference (C+J) is a venue where journalists and researchers meet. In this setting, news organizations can share experiences with computational and social scientists, exploring new research or “innovations in practice” that can serve the public good. At C+J we strive for symmetry in our talks and panels — journalism’s reporting conventions can be both solutions to computational problems as well as sources of new research questions.
+The Computation+Journalism Conference (C+J) is a venue where journalists and researchers meet. News organizations share experiences with computational and social scientists, and together explore new research or new kinds of practices that can serve the public good.
 
-Success for our conference is measured in new published stories, new kinds of research, and new cross-professional collaborations.
+Building on the success of C+J 2021, we are planning for C+J 2022 to be a large, inclusive event. The fact that people no longer have to travel to make substantial contributions at an event like this lowers the barriers to entry. We hope to attract researchers with some curiosity about journalism, as well as news organizations looking to expand their reporting capabilities or experiment with new ways to present stories.
+
+We are taking a very broad view of the term “researchers” to include our traditional audience of computing, data and social scientists, as well as artists and digital humanities scholars, historians, geographers and architects.
+
+Success for C+J is measured in new types of published stories, new lines of investigation, and new cross-professional collaborations.
 
 ### Going Hybrid in 2022
 
