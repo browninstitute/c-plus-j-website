@@ -1,7 +1,7 @@
 TODO:
 
 * Add links to code of conduct report inappropriate behavior forms
-* Add favicon
+* [x] Add favicon
 
 Tutorials:
 
