@@ -35,11 +35,11 @@ In the course of enforcing this Code of Conduct, the Computation + Journalism Co
 
 If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible. Harassment and other code of conduct violations reduce the value of our event for everyone. We want you to be happy at our event. People like you make our event a better place.
 
-Please contact a member of the C+J Code of Conduct Committee by talking with them in person, filling out the anonymous reporting form, or emailing them: [cj-2022@columbia.edu](mailto:cj-2022@columbia.edu) (This goes to facilitators at the host organization).
+Please contact a member of the C+J Code of Conduct Committee by talking with them in person, filling out the [anonymous reporting form](https://forms.gle/TFXosaKHDDhhh7Gz5), or emailing them: [cj-2022@columbia.edu](mailto:cj-2022@columbia.edu) (This goes to facilitators at the host organization).
 
 The Computation + Journalism Symposium prioritizes marginalized people’s safety over privileged people’s comfort. C+J reserves the right not to act on complaints regarding “reverse-isms”, reasonable communication of boundaries, communicating in a tone you do not like, or criticizing racist, sexist, classist or otherwise oppressive behavior[d]. If another individual asks you to stop engaging in some behavior in the course of participation in the event, you should comply immediately, and are encouraged to contact a member of the Code of Conduct Committee for further guidance.
 
-If you are more comfortable submitting a report anonymously, please do so using this Google Form. We will do our best to respond to the situation, and reports submitted anonymously are taken seriously.
+If you are more comfortable submitting a report anonymously, please do so using [this Google Form](https://forms.gle/TFXosaKHDDhhh7Gz5). We will do our best to respond to the situation, and reports submitted anonymously are taken seriously.
 Thank you and Credits
 
 This code of conduct is based on the [Bocoup Code of Conduct](https://bocoup.com/code-of-conduct) which was in turn inspired by the [Processing Day](https://day.processing.org/) Code of Conduct, [JSConf Code of Conduct](https://jsconf.com/codeofconduct.html), Citizen Code of Conduct, [NodeConf Photography Policy](https://github.com/nodeconf/website/issues/7), and Open Source Bridge Recording Policy. We also sincerely appreciate the work of [Geek Feminism](https://geekfeminism.fandom.com/wiki/Conference_anti-harassment/Policy) for making Codes of Conduct the norm in tech spaces.

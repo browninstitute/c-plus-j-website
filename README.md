@@ -1,7 +1,10 @@
 TODO:
 
-* Add links to code of conduct report inappropriate behavior forms
+* [x] Add links to code of conduct report inappropriate behavior forms
 * [x] Add favicon
+* [ ] Change title size in mobile
+* [ ] Change footer text size in mobile
+* [ ] Change nav bar text size in mobile
 
 Tutorials:
 
