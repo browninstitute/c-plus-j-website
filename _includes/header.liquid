@@ -6,7 +6,7 @@
                     {% assign navPages = collections.all | eleventyNavigation %}
                     {% for entry in navPages %}
                         {% if entry.url == page.url %}
-                            <a class="dib ba no-underline br4 pa2-ns pa1 bg-moon-gray tr" href="{{ entry.url | url }}">{{ entry.title }}</a>
+                            <a class="dib ba no-underline br4 pa2-ns pa1 highlightedNav tr" href="{{ entry.url | url }}">{{ entry.title }}</a>
                         {% else %}
                             <a class="dib ba no-underline br4 pa2-ns pa1 tr" href="{{ entry.url | url }}">{{ entry.title }}</a>
                         {% endif %}

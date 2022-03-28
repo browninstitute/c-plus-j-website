@@ -13,6 +13,9 @@ a, a:visited {
 .logoLink {
     border: none;
 }
+.highlightedNav {
+    background-color: #F4FFD9;
+}
 ul {
     margin-left: 0em;
     padding-left: 1em;
