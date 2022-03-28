@@ -19,7 +19,7 @@ News outlets rely on computation to tell some of the biggest stories of our time
 
 The Computation+Journalism Conference (C+J) is a venue where journalists and researchers meet. News organizations share experiences with computational and social scientists, and together explore new research or new kinds of practices that can serve the public good.
 
-Building on the success of C+J 2021, we are planning for C+J 2022 to be a large, inclusive event. The fact that people no longer have to travel to make substantial contributions at an event like this lowers the barriers to entry. We hope to attract researchers with some curiosity about journalism, as well as news organizations looking to expand their reporting capabilities or experiment with new ways to present stories.
+Building on the success of C+J 2021, we are planning for C+J 2022 to be a large, inclusive event — it will be both in-person and online, a “hybrid” meeting. The fact that people no longer have to travel to make substantial contributions at an event like this lowers the barriers to entry. We hope to attract researchers with some curiosity about journalism, as well as news organizations looking to expand their reporting capabilities or experiment with new ways to present stories.
 
 We are taking a very broad view of the term “researchers” to include our traditional audience of computing, data and social scientists, as well as artists and digital humanities scholars, historians, geographers and architects.
 
