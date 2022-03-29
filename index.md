@@ -35,4 +35,4 @@ Building on the success of C+J 2021, we are planning for C+J 2022 to be a large,
 
 **The conference will take place the morning of June 9, the full day of June 10, and the morning of June 11.*
 
-**More information, including how to propose and register, coming soon!**
+**More information, including how to propose, coming soon!**
