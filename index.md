@@ -17,7 +17,7 @@ at Columbia Journalism School](https://brown.columbia.edu/)
 
 News outlets rely on computation to tell some of the biggest stories of our time. Journalists collect data when official sources have not. They build statistical models to uncover disparities, previously ignored. And they craft new visualizations to help us experience our world in different ways. Some newsrooms have expertise in-house to produce this work, while others depend on collaborations with outside researchers.
 
-The Computation+Journalism Conference (C+J) is a venue where journalists and researchers meet — news organizations share experiences with computational and social scientists, and together explore new kinds of practices that can serve the public good. We take a very broad view of the term “researchers” to include our traditional audience of computing, data and social scientists, as well as artists and digital humanities scholars, historians, geographers and architects.
+The Computation+Journalism Conference (C+J) is a venue where journalists and researchers meet — news organizations share experiences with computational and social scientists, and together explore new kinds of practices that can serve the public good. For C+J 2022 we will take a very broad view of the term “researchers” to include our traditional audience of computing, data and social scientists, as well as artists and digital humanities scholars, historians, geographers and architects.
 
 ### Building Bigger and Going Hybrid in 2022
 
