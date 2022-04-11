@@ -36,3 +36,7 @@ Building on the success of C+J 2021, we are planning for C+J 2022 to be a large,
 **The conference will take place the afternoon of June 9, the full day of June 10, and the morning of June 11.*
 
 **More information, including how to propose, coming soon!**
+
+### Sponsors
+
+<img src="images/knightFoundationLogo.png" alt="Knight Foundation logo" width="180 em"/>
