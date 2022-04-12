@@ -16,7 +16,7 @@ New kinds of data, new kinds of analyses, new kinds of narrative  — sessions a
 
 Truly, the possibilities are endless.
 
-### Forms of participation
+### Forms of participation - Propose via [EasyChair](https://easychair.org/my/conference?conf=cj2022)
 
 You do not have to be in-person to participate in C+J 2022. Speakers can be either online or in-person. 
 
@@ -25,6 +25,8 @@ We will borrow from the organizational structure used by the Joint Statistical M
 * Propose a **contributed workshop** with an abstract of at most 250 words. These are training sessions led by journalists or researchers, introducing a topic of interest to the community.
 * Propose a **contributed talk** with an abstract of at most 250 words. These separate talks will be divided into sessions by the Program Committee and run in parallel at the event.
 * Propose a **contributed session** with three or four speakers. Each speaker will provide an abstract of at most 250 words, and the session organizer should submit a similar abstract describing the overall topic of the session.
-* Propose a **refereed talk** with a two-page abstract. These talks will also be divided into sessions but will be given a special place in the program.
+* Propose a **refereed paper** with a five-page PDF. These talks will also be divided into sessions but will be given a special place in the program.
 * The Program Committee will organize several invited sessions.
 * The Program Committee will invite a slate of keynote speakers.
+
+Propose via [EasyChair](https://easychair.org/my/conference?conf=cj2022)
