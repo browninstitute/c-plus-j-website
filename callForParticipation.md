@@ -16,7 +16,7 @@ New kinds of data, new kinds of analyses, new kinds of narrative  — sessions a
 
 Truly, the possibilities are endless.
 
-### Forms of participation - Propose via [EasyChair](https://easychair.org/my/conference?conf=cj2022)
+### Forms of participation - Propose via [EasyChair](https://easychair.org/cfp/cj2022)
 
 You do not have to be in-person to participate in C+J 2022. Speakers can be either online or in-person. 
 
@@ -29,4 +29,4 @@ We will borrow from the organizational structure used by the Joint Statistical M
 * The Program Committee will organize several invited sessions.
 * The Program Committee will invite a slate of keynote speakers.
 
-Propose via [EasyChair](https://easychair.org/my/conference?conf=cj2022)
+Propose via [EasyChair](https://easychair.org/cfp/cj2022)
