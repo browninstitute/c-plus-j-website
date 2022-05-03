@@ -12,7 +12,7 @@ Building on the success of C+J 2021, we are planning for C+J 2022 to be a large,
 
 Talks and sessions might cover a tool or methodology that could support new kinds of reporting or storytelling. Perhaps you are a social scientist with a new way to think about public opinion. Or you are a researcher in the digital humanities with a fresh approach to thinking about collections of texts, identifying who they are about and the situations they describe. Or you are a media artist with a new visualization of event-based data, exploring the temporality of how things unfolded. You might consider proposing a complete session on the description of a significant collaboration between journalists and some other field, perhaps discussing the backstory to a complicated piece of reporting. Riffing a bit more, what about talks introducing the new hybrid methods of epidemiology and anthropology, to help journalists find and tell better stories post-COVID?
 
-New kinds of data, new kinds of analyses, new kinds of narrative  — sessions at C+J 2021 might explore their use in journalism, in helping the public understand complex issues like climate change or COVID or challenges to fair voting practices.
+New kinds of data, new kinds of analyses, new kinds of narrative  — sessions at C+J 2022 might explore their use in journalism, in helping the public understand complex issues like climate change or COVID or challenges to fair voting practices.
 
 Truly, the possibilities are endless.
 
