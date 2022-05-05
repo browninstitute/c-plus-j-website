@@ -10,6 +10,7 @@ module.exports = function(eleventyConfig) {
     "ico"
   ]);
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
+  eleventyConfig.addPassthroughCopy("live/*");
   // eleventyConfig.addPassthroughCopy("images");
   // eleventyConfig.addPassthroughCopy("css");
   // eleventyConfig.addPassthroughCopy({"favicon.ico": "/"});
