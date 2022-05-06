@@ -6,12 +6,9 @@ title: Computation + Journalism Conference
 
 ## 2022 Computation + Journalism Conference
 
-<!-- Data Journalism in an Expanded Field -->
-
 **June 9-11, 2022**
 
-Hosted by the [Brown Institute for Media Innovation
-at Columbia Journalism School](https://brown.columbia.edu/)
+A hybrid meeting hosted by the [Brown Institute for Media Innovation at Columbia Journalism School](https://brown.columbia.edu/) -- Attend in-person or online!
 
 ### About the Conference
 
