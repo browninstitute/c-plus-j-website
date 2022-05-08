@@ -6,7 +6,7 @@ title: Computation + Journalism Conference
 
 ## 2022 Computation + Journalism Conference
 
-**June 9-11, 2022**
+**June 9-11 (Submissions due May 9!)**
 
 A hybrid meeting hosted by the [Brown Institute for Media Innovation at Columbia Journalism School](https://brown.columbia.edu/) -- Attend in-person or online!
 
