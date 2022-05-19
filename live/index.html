@@ -40,7 +40,7 @@
         const wsid = searchParams.get('wsid') ?? 'ws_RRsLBjUR';
         const inviteCode = searchParams.get('invitecode');
 
-        let iframeSrc = `https://localhost:7777/app.html?wsid=${encodeURIComponent(wsid)}`;
+        let iframeSrc = `https://localhost:8080/app.html?wsid=${encodeURIComponent(wsid)}`;
         if (inviteCode) {
             iframeSrc = `${iframeSrc}&invitecode=${inviteCode}`;
         }
