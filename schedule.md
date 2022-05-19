@@ -5,7 +5,9 @@ title: Schedule - C+J 2022
 #   key: Schedule
 #   order: 4
 ---
-**C+J Schedule - June 9-11**
+# Conference Schedule
+
+Please see below for a preliminary schedule for the 2022 C+J Symposium held at Columbia University. The main confernce will be held in Pulitzer Hall (the Journalism School) at Columbia. Each session will also be broadcast to an online environment. A link to this environment will be sent to all registrants prior to the event.
 
 ### Thursday, June 9
 
