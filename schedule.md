@@ -8,13 +8,22 @@ title: Schedule - C+J 2022
 **C+J Schedule - June 9-11**
 
 ### Thursday, June 9
-*This first day is about settling in, learning something new in a low-key environment, and meeting people.*
+*This first day is about settling in, learning something new in a low-key environment, and meeting new people.*
 
 | Time/Location      | Description |
 | ----------- | ----------- |
-| 3:00 - 4:15PM   | **Workshop Set I**<br>1) Numbers for audience understanding - Laura Santhanam (PBS NewsHour), Jena Barchas-Lichtenstein (Knology), John Voiklis (Knology), Erica Hendry (PBS NewsHour) and Travis Daub (PBS NewsHour)<br>2) AI for Everyone: Learnings from the Local News Challenge - Swapneel Mehta (New York University), Christopher Brennan (Overtone AI) and Matt Macvey (NYC Media Lab)<br>3) Identifying social media manipulation with OSoMe tools - Kai-Cheng Yang and Christopher Torres-Lugo (Observatory on Social Media, Indiana University)
-| 4:30 - 5:45PM   | **Workshop Set II**<br>1) Centering the humans: Leveraging OSINT, digital authentication and rooted storytelling to elevate community voices in algorithmic accountability journalism - Garance Burke (The Associated Press)<br>2) Temporal Topologies – making journalistic authorship transparent through in-depth tagging of newsworthy events - Francesca Morini (Fachhochschule Potsdam)<br>3)  Using Networks Analysis and Visualization to Explain COVID-19 Spread through the Physical, Social, and Information Graphs - Hong Qu (Harvard Kennedy School)
-| 6:00 - 7:15PM   | **Workshop Set III**<br>1) Data journalism as distributed content for local newsrooms: Lessons from Brown Magic Grantees - Derek Kravitz (MuckRock), Mohar Chatterjee (Brown Institute for Media Innovation) and Betsy Ladyzhets (MuckRock)<br>2) How can AI help you? Explore writing with a machine - Lydia Chilton (Columbia University, Computer Science)<br>3) Share a Story: A Daily Practice for Teaching Healthy News Habits - Blake Eskin (Journalism + Design)
+| 3:00 - 4:15PM   | **Workshop Set I**<br>
+1. Numbers for audience understanding - Laura Santhanam (PBS NewsHour), Jena Barchas-Lichtenstein (Knology), John Voiklis (Knology), Erica Hendry (PBS NewsHour) and Travis Daub (PBS NewsHour)
+2. AI for Everyone: Learnings from the Local News Challenge - Swapneel Mehta (New York University), Christopher Brennan (Overtone AI) and Matt Macvey (NYC Media Lab)
+3. Identifying social media manipulation with OSoMe tools - Kai-Cheng Yang and Christopher Torres-Lugo (Observatory on Social Media, Indiana University)
+| 4:30 - 5:45PM   | **Workshop Set II**<br>
+1. Centering the humans: Leveraging OSINT, digital authentication and rooted storytelling to elevate community voices in algorithmic accountability journalism - Garance Burke (The Associated Press)
+2. Temporal Topologies – making journalistic authorship transparent through in-depth tagging of newsworthy events - Francesca Morini (Fachhochschule Potsdam)
+3. Using Networks Analysis and Visualization to Explain COVID-19 Spread through the Physical, Social, and Information Graphs - Hong Qu (Harvard Kennedy School)
+| 6:00 - 7:15PM   | **Workshop Set III**<br>
+1. Data journalism as distributed content for local newsrooms: Lessons from Brown Magic Grantees - Derek Kravitz (MuckRock), Mohar Chatterjee (Brown Institute for Media Innovation) and Betsy Ladyzhets (MuckRock)
+2. How can AI help you? Explore writing with a machine - Lydia Chilton (Columbia University, Computer Science)
+3. Share a Story: A Daily Practice for Teaching Healthy News Habits - Blake Eskin (Journalism + Design)
 
 ### Friday, June 10
 | Time/Location | Description |
