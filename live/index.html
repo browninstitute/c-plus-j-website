@@ -32,7 +32,7 @@
         window.onload = () => {
         // Create an iframe
         const iframe = document.createElement('iframe');
-        iframe.allow = 'camera; microphone';
+        iframe.allow = 'camera; microphone;display-capture;clipboard-read;clipboard-write';
 
         // Read the wsid and invite code from URL
         // https://ohyay.co/app.html?wsid=ws_7WYZo2-u&invitecode=246d17d0-310a-43f8-a64e-0005994a80e5
@@ -48,8 +48,32 @@
 
         // Add the iframe to the page
         document.body.appendChild(iframe);
+
+        // Remove the invite code from the URL.
+        const searchString = searchParams.toString();
+        history.replaceState(null, '', window.location.pathname +
+            (window.location.hash ? `${window.location.hash}` : ''));
         };
+
+        // Listen to messages from the iframe for when the scene changes
+        window.addEventListener('message', (ev) => {
+        const msg = ev.data;
+        if (!msg) {
+            return;
+        }
+
+        if (msg.type === 'hash-update') {
+            const hash = msg.hash;
+            if (hash) {
+            history.pushState(null, null, '#' + hash);
+            } else {
+            history.pushState(null, null, ' ');
+            }
+        }
+        });
     </script>
+
+    
 </head>
 
 <body>
