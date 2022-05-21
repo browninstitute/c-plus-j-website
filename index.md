@@ -26,9 +26,9 @@ Building on the success of C+J 2021, we are planning for C+J 2022 to be a large,
 
 | Date      | Description |
 | ----------- | ----------- |
-| May 9, 2022      | Submission Deadline       |
-| May 13, 2022   | Decisions on contributed and refereed talks        |
-| June 9-11, 2022*   | Conference |
+| ~~May 9, 2022~~      | Submission Deadline       |
+| ~~May 13, 2022~~   | Decisions on contributed and refereed talks        |
+| June 9-11, 2022   | Conference! |
 
 **The conference will take place the afternoon of June 9, the full day of June 10, and the morning of June 11.*
 
