@@ -7,7 +7,7 @@ eleventyNavigation:
 ---
 # Conference Schedule (Tentative)
 
-This is a preliminary schedule for the 2022 C+J Conference to be held at Columbia University. The main conference will take place in Pulitzer Hall (the Journalism School) at Columbia. Each session will also be broadcast to an online environment. A link to this environment will be sent to all registrants prior to the event.
+This is a preliminary schedule for the 2022 C+J Conference to be held at Columbia University. The event will be hybrid, taking place in Pulitzer Hall (the Journalism School) at Columbia and in an online environment hosted on ohyay.co. A link to this environment will be sent to all registrants prior to the event.
 
 ### Thursday, June 9
 
