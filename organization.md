@@ -5,7 +5,33 @@ eleventyNavigation:
   key: Organization
   order: 3
 ---
-## Code of Conduct
+## 1. Program Committee
+
+Meredith K Broussard<br>
+Emily Bell<br>
+Larry Birnbaum<br>
+Matthew Brehmer<br>
+Alberto Cairo<br>
+Matthew Carroll<br>
+Sarah Cohen<br>
+Matthew Conlen<br>
+Nicholas Diakopoulos<br>
+Catherine D'Ignazio<br>
+Irfan Essa<br>
+James T. Hamilton<br>
+Naeemul Hassan<br>
+Bahareh Heravi<br>
+Jessica Hullman<br>
+Kenny Joseph<br>
+David Lazer<br>
+Scott Klein<br>
+Maggie Mulvihill<br>
+Jonathan Stray<br>
+John Wihbey<br>
+Amy Zhang<br>
+
+
+## 2. Code of Conduct
 
 ### Quick Version
 
