@@ -44,12 +44,15 @@
         if (inviteCode) {
             iframeSrc = `${iframeSrc}&invitecode=${inviteCode}`;
         }
-        iframe.src = iframeSrc;
-
-        const hash = window.location.hash;
+		
+	const hash = window.location.hash;
         if (hash) {
         iframeSrc = `${iframeSrc}#${hash}`
         }
+		
+        iframe.src = iframeSrc;
+
+
 
         // Add the iframe to the page
         document.body.appendChild(iframe);
