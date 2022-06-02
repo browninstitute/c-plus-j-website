@@ -40,19 +40,17 @@
         const wsid = searchParams.get('wsid') ?? 'ws_RRsLBjUR';
         const inviteCode = searchParams.get('invitecode');
 
-        let iframeSrc = `https://ohyay.co/app.html?wsid=${encodeURIComponent(wsid)}`;
+        let iframeSrc = 'https://ohyay.co/app.html?wsid=${encodeURIComponent(wsid)}';
         if (inviteCode) {
-            iframeSrc = `${iframeSrc}&invitecode=${inviteCode}`;
+            iframeSrc = '${iframeSrc}&invitecode=${inviteCode}';
         }
 		
-	const hash = window.location.hash;
+	    const hash = window.location.hash;
         if (hash) {
-        iframeSrc = `${iframeSrc}#${hash}`
+        iframeSrc = '${iframeSrc}#${hash}'
         }
 		
         iframe.src = iframeSrc;
-
-
 
         // Add the iframe to the page
         document.body.appendChild(iframe);
