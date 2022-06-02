@@ -45,10 +45,8 @@
             iframeSrc = `${iframeSrc}&invitecode=${inviteCode}`;
         }
 		
-	    const hash = window.location.hash;
-        if (hash) {
-        iframeSrc = `${iframeSrc}#${hash}`
-        }
+        const hash = window.location.hash;
+        iframeSrc = `${iframeSrc}${hash}`;
 		
         iframe.src = iframeSrc;
 
