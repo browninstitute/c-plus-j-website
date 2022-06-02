@@ -46,6 +46,11 @@
         }
         iframe.src = iframeSrc;
 
+        const hash = window.location.hash;
+        if (hash) {
+        iframeSrc = `${iframeSrc}#${hash}`
+        }
+
         // Add the iframe to the page
         document.body.appendChild(iframe);
 
