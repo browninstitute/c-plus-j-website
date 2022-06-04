@@ -16,6 +16,8 @@ This is a preliminary schedule for the 2022 C+J Conference to be held at Columbi
 
 ### Thursday, June 9
 
+*A complete description of our workshops can be found [here](https://github.com/browninstitute/c-plus-j-website/raw/main/docs/workshops.pdf).*
+
 | Time/Location      | Description |
 | ----------- | ----------- |
 | 2:00 - 3:15PM   | **Workshop Set I**<br><ol><li>Numbers for audience understanding - Laura Santhanam (PBS NewsHour), **<span style="color:#0ea5e9">Jena Barchas-Lichtenstein</span>** (Knology), John Voiklis (Knology), Erica Hendry (PBS NewsHour) and Travis Daub (PBS NewsHour)<li>AI for Everyone: Learnings from the Local News Challenge - **Swapneel Mehta** (New York University), **<span style="color:#0ea5e9">Christopher Brennan</span>** (Overtone AI), **<span style="color:#0ea5e9">Zhouhan Chen</span>** (New York University) and Matt Macvey (NYC Media Lab)</ol>|
