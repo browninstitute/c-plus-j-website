@@ -49,3 +49,8 @@ tbody tr {
 tbody tr:nth-of-type(even) {
     background-color: #f3f3f3;
 }
+
+.remote {
+    color:#0ea5e9;
+    font-weight: bolder;
+}
