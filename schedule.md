@@ -5,7 +5,7 @@ eleventyNavigation:
    key: Schedule
    order: 4
 ---
-# Conference Schedule (Preliminary)
+# Conference Schedule
 
 This is a preliminary schedule for the 2022 C+J Conference to be held at Columbia University. The event will be hybrid, taking place in **Pulitzer Hall** (the Journalism School) at Columbia and in an <span class="remote">online environment</span> hosted on [ohyay.co](https://ohyay.co). A link to this environment will be sent to all registrants prior to the event.
 
