@@ -54,10 +54,10 @@
         document.body.appendChild(iframe);
 
         // Remove the invite code from the URL.
-        // const searchString = searchParams.toString();
-        // history.replaceState(null, '', window.location.pathname +
-        //     (window.location.hash ? `${window.location.hash}` : ''));
-        // };
+        const searchString = searchParams.toString();
+        history.replaceState(null, '', window.location.pathname +
+            (window.location.hash ? `${window.location.hash}` : ''));
+        };
 
         // Listen to messages from the iframe for when the scene changes
         window.addEventListener('message', (ev) => {
