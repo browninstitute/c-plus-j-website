@@ -6,9 +6,16 @@ title: Computation + Journalism Conference
 
 ## 2022 Computation + Journalism Conference
 
-**June 9-11 - [The schedule is now live!](https://cj2022.brown.columbia.edu/schedule)**
+**The meeting was held June 9-11**
 
-Attend in-person or online! 2022 is a hybrid meeting, hosted at Columbia University by the [Brown Institute for Media Innovation](https://brown.columbia.edu/)
+The meeting was hosted at Columbia University by the [Brown Institute for Media Innovation](https://brown.columbia.edu/). It was "hybrid," with speakers and audience members being either in-person or online. 
+
+[You can still access the virtual space here](https://cj2022.brown.columbia.edu/live).
+
+[The full schedule has been posted here!](https://cj2022.brown.columbia.edu/schedule)
+
+We will post the collection of refereed papers from the meeting shortly.
+
 
 ### About the Conference
 
