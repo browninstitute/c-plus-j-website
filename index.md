@@ -8,7 +8,7 @@ title: Computation + Journalism Conference
 
 **The meeting was held June 9-11**
 
-The meeting was hosted at Columbia University by the [Brown Institute for Media Innovation](https://brown.columbia.edu/). It was "hybrid," with speakers and audience members being either in-person or online. 
+The meeting was hosted at the Columbia Journalism School by the Brown Institute for Media Innovation. It was "hybrid," with speakers and audience members being either in-person or online. 
 
 [You can still access the virtual space here](https://cj2022.brown.columbia.edu/live).
 
