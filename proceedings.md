@@ -2,8 +2,8 @@
 layout: layout.liquid
 title: Schedule - C+J 2022
 eleventyNavigation:
-   key: Schedule
-   order: 4
+   key: Proceedings
+   order: 5
 ---
 # Conference Proceedings
 
