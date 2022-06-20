@@ -7,7 +7,7 @@ eleventyNavigation:
 ---
 # Conference Schedule
 
-A complete shedule with abstracts can be found [here](https://github.com/browninstitute/c-plus-j-website/raw/main/docs/program.pdf).
+A complete schedule with abstracts can be found [here](https://github.com/browninstitute/c-plus-j-website/raw/main/docs/program.pdf).
 
 This is the schedule for the 2022 C+J Conference to be held at Columbia University. The event will be hybrid, taking place in **Pulitzer Hall** (the Journalism School) at Columbia and in an <span class="remote">online environment</span> hosted on [ohyay.co](https://ohyay.co). A link to this environment is sent to all registrants.
 
