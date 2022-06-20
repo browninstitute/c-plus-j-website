@@ -14,7 +14,7 @@ The meeting was hosted at the Columbia Journalism School by the Brown Institute 
 
 [The full schedule has been posted here!](https://cj2022.brown.columbia.edu/schedule)
 
-We will post the collection of refereed papers from the meeting shortly.
+[The Proceedings from the refereed submissions have been posted here!](https://cj2022.brown.columbia.edu/proceedings)
 
 
 ### About the Conference
