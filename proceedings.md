@@ -5,32 +5,21 @@ eleventyNavigation:
    key: Schedule
    order: 4
 ---
-# Conference Schedule
+# Conference Proceedings
 
-A complete shedule with abstracts can be found [here](https://github.com/browninstitute/c-plus-j-website/raw/main/docs/program.pdf).
+Computation+Journalism 2022 featured a "refereed paper" track. This consisted of three sessions, each with three papers. We collected the papers here as an informal proceedings.
 
-This is the schedule for the 2022 C+J Conference to be held at Columbia University. The event will be hybrid, taking place in **Pulitzer Hall** (the Journalism School) at Columbia and in an <span class="remote">online environment</span> hosted on [ohyay.co](https://ohyay.co). A link to this environment is sent to all registrants.
-
-*All times are in Eastern Daylight Time*
+A complete schedule with abstracts can be found [here](https://github.com/browninstitute/c-plus-j-website/raw/main/docs/program.pdf).
 
 <!-- ***In-person presenters**<br>
 *<span class="remote">Online presenters</span> -->
 
 ### Thursday, June 9
 
-| Time/Location      | Description |
-| ----------- | ----------- |
-| 2:00 - 3:15PM   | **Workshop Set I**<br><ol><li>Numbers for audience understanding - Laura Santhanam (PBS NewsHour), <span class="remote">Jena Barchas-Lichtenstein</span> (Knology), John Voiklis (Knology), Erica Hendry (PBS NewsHour) and Travis Daub (PBS NewsHour)<li>AI for Everyone: Learnings from the Local News Challenge - **Swapneel Mehta** (New York University), <span class="remote">Christopher Brennan</span> (Overtone), <span class="remote">Zhouhan Chen</span> (New York University), <span class="remote">Jessica Davis (Gannett Localizer)</span>, Matt Macvey (NYC Media Lab), <span class="remote">Steve Dorsey</span> (Gannett)</ol>|
-| 3:30 - 4:45PM   | **Workshop Set II**<br><ol><li>Identifying social media manipulation with OSoMe tools - <span class="remote">Kai-Cheng Yang</span> and Christopher Torres-Lugo (Observatory on Social Media, Indiana University)<li>Temporal Topologies – Making journalistic authorship transparent through in-depth tagging of newsworthy events - <span class="remote">Francesca Morini</span> (Fachhochschule Potsdam)<li>Using Networks Analysis and Visualization to Explain COVID-19 Spread through the Physical, Social, and Information Graphs - <span class="remote">Hong Qu</span> (Harvard Kennedy School)</ol>|
-| 5:00 - 6:15PM   | **Workshop Set III**<br><ol><li>How can AI help you? Explore writing with a machine - **Lydia Chilton** (Columbia University, Computer Science)<li>Share a Story: A Daily Practice for Teaching Healthy News Habits - **Blake Eskin** (Journalism + Design)</ol>|
-| 6:15PM - ? | **Socialize!**<br>A casual get together at a local watering hole (we'll figure how to bring our virtual attendees along)|
 ### Friday, June 10
-| Time/Location | Description |
+| Session | Paper |
 | ----------- | ----------- | 
-| 9 - 10AM<br>*Lecture Halle*  | Breakfast |  
-| 10AM - 12:00PM<br>*Lecture Hall*   | **\[1\] Invited Session: Conflict Reporting**<br>*Examining how data are collected, events are discovered, information presented*<ol><li>Behind The Civilian Casualty Files: Investigating The 'Most Precise' Air War In History  - **Azmat Khan (Columbia Journalism School)**<li>Mapping Incidents of Civilian Harm in Ukraine - <span class="remote">Charlotte Godart (Bellingcat)</span><li>How data journalism is responding to the war: What can satellite images say? How do we detect disinformation? What other data can we use? - <span class="remote">Roman Kulchynskyj</span> (Editor-in-Chief, Texty.org.ua), <span class="remote">Peter Bodnar</span>, <span class="remote">Illya Samoilovych</span> (Data journalists, Texty.org.ua)</ol>|
-| 12:10 - 1:30PM   | **Paper Sessions** |
-| *Lecture Hall* | **\[2\] Refereed Papers:  Applications of Machine Learning**<br>*Three efforts to apply machine learning to both the practice and business of journalism*<ol><li>Generating a Pairwise Dataset for Click-through Rate Prediction of News Articles Considering Positions and Contents -  **Shotaro Ishihara** (Nikkei, Inc.) and Yasufumi Nakama<li>Detecting Stance of Tweets Toward Truthfulness of Factual Claims - <span class="remote">Zhengyuan Zhu</span>, Zeyu Zhang, Foram Patel and **Chengkai Li** (University of Texas at Arlington)<li>What’s the Fairest of Them All? Aesthetic Assessment of Visuals - Marc Willhaus, **Daniel Vera Nieto**, Clara Fernandez and Severin Klingler (Media Technology Center ETH Zurich)</ol>|
+| Applications of Machine Learning | <ol><li>Generating a Pairwise Dataset for Click-through Rate Prediction of News Articles Considering Positions and Contents [Paper](http://cj2022.brown.columbia.edu/proceedings/Session2Group1.pdf) -  **Shotaro Ishihara** (Nikkei, Inc.) and Yasufumi Nakama<li>Detecting Stance of Tweets Toward Truthfulness of Factual Claims - <span class="remote">Zhengyuan Zhu</span>, Zeyu Zhang, Foram Patel and **Chengkai Li** (University of Texas at Arlington)<li>What’s the Fairest of Them All? Aesthetic Assessment of Visuals - Marc Willhaus, **Daniel Vera Nieto**, Clara Fernandez and Severin Klingler (Media Technology Center ETH Zurich)</ol>|
 | *Brown Institute* | **\[3\] Contributed Session:  AI and Investigations**<br>As investigative computational journalists, sometimes we look into the black boxes of algorithms written by other people; and sometimes we write our own AI in order to investigate social problems. Our panel will discuss the opportunities and challenges AI can bring to journalism and investigative reporting, as well as creative strategies for cracking open black boxes and discovering problems. - **Bahareh Heravi** (University of Surrey), <span class="remote">Meredith Broussard</span> (New York University), **Julia Angwin** (The Markup), **Hilke Schellmann** (New York University)|
 | *607b* | **\[4\] Contributed Papers: News Analysis**<br>*Viewing the news itself, and our consumption of stories, as data. Here is a database of local news sites nationwide, and analyses of the how we look for news and how we interpret stories.*<ol><li>Studying Local News at Scale - **Marianne Aubin Le Quéré**, Ting-Wei Chiang and Mor Naaman (Cornell Tech)<li>Mining Questions for Answers: How COVID-19 Questions Differ Globally - <span class="remote">Jenna Sherman</span>, Smriti Singh, Scott Hale and Darius Kazemi (Meedan Digital Health Lab, Harvard T.H. Chan School of Public Health)<li>Vulnerable Visualizations: How Data Visualizations Are Used to Promote Misinformation Online - <span class="remote">Maxim Lisnic</span>, Marina Kogan and Alexander Lex (University of Utah)<li>Navigating Multi-perspective News Stories By Showing What Is Common, And What Is Debated - **Philippe Laban** (Salesforce Research), Lidiya Murakhovs'Ka (Salesforce Research), Xiang Anthony Chen (UCLA) and Chien-Sheng Wu (Salesforce Research)</ol> |
 | 1:30 - 2:30PM<br>*Lecture Hall*  | Lunch |
